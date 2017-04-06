@@ -158,12 +158,12 @@ Este tipo de pregunta tiene los siguientes atributos:
 Pregunta tipo question_list con distintas subpreguntas y las mismas respuestas. Por ejemplo:
 Marque las plataformas de videojuegos que posee.
 
-      1.	PlayStation 3.
-        a.	Si.
-        b.	No.
-      2.	Nintendo 3DS.
-        a.	Si.
-        b.	No.
+      1. PlayStation 3.
+        a. Si.
+        b. No.
+      2. Nintendo 3DS.
+        a. Si.
+        b. No.
 
 
 Este tipo de pregunta tiene los siguientes atributos:
