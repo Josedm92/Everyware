@@ -1,7 +1,9 @@
 # Documentación de los archivos JSON
 #### [Terapia Online]
 
+![Alt text](/logo.svg?raw=true "Optional Title")
 
+<h1 align="center"><img src="http://www.golosinasya.com.ar/tienda/image/cache/data/apple_logo-100x100.jpg" alt="logo" width="5%"></h1>
 
 ## Estructura básica de los ficheros:
 
