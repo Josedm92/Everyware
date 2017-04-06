@@ -67,11 +67,11 @@ Este tipo de pregunta tiene los siguientes atributos:
 Pregunta tipo dropdown, se dispone de una lista desplegable con respuesta exclusiva. Por ejemplo: 
 
       Indique el tiempo que suele dedicar a jugar a las distintas categorías de videojuegos expuestas.
-      1.	No suelo jugar nunca.
-      2.	Suelo jugar en alguna ocasión.
-      3.	Suelo jugar una vez por semana.
-      4.	Suelo jugar varias veces por semana.
-      5.	Suelo jugar a diario.
+      1. No suelo jugar nunca.
+      2. Suelo jugar en alguna ocasión.
+      3. Suelo jugar una vez por semana.
+      4. Suelo jugar varias veces por semana.
+      5. Suelo jugar a diario.
 
       Videojuegos de acción: _______ 
       Videojuegos de conducción: _______
