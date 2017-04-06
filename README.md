@@ -6,20 +6,20 @@ Documentación de los archivos JSON
 
 Estructura básica de los ficheros:
 
-{
-  "title": "", Título del cuestionario.
-  "subtitle":"", Subtítulo del cuestionario.*
-  "description": "", Descripción del cuestionario (solo a nivel interno, no se verá reflejado).*
-  "questions": [ Listado de preguntas del cuestionario.
     {
-      "title": "", Título de la pregunta.
-      "subtitle": "", Subtítulo de la pregunta.*
-      "description": "", Descripción de la pregunta (solo a nivel interno, no se verá reflejado).*
-      "legend": "", Leyenda de las posibles respuestas (en caso de ser necesaria).*
-      "category": "" Categoría (o tipo) de la pregunta.
-    },
-  ]
-}
+      "title": "", Título del cuestionario.
+      "subtitle":"", Subtítulo del cuestionario.*
+      "description": "", Descripción del cuestionario (solo a nivel interno, no se verá reflejado).*
+      "questions": [ Listado de preguntas del cuestionario.
+        {
+          "title": "", Título de la pregunta.
+          "subtitle": "", Subtítulo de la pregunta.*
+          "description": "", Descripción de la pregunta (solo a nivel interno, no se verá reflejado).*
+          "legend": "", Leyenda de las posibles respuestas (en caso de ser necesaria).*
+          "category": "" Categoría (o tipo) de la pregunta.
+        },
+      ]
+    }
 
 *De no existir se asignará el valor null.
 
