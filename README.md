@@ -171,12 +171,14 @@ Marque las plataformas de videojuegos que posee.
 Este tipo de pregunta tiene los siguientes atributos:
 
       - subquestions[]: Array con las distintas subpreguntas. Por ejemplo
+      
         "subquestions": [
           "PlayStation 3",
           "Nintendo 3DS"
          ]
 
       - answer[]: Array con las posibles respuestas. Por ejemplo:
+      
         "answer": [
           "Si",
           "No"
@@ -240,6 +242,7 @@ Este tipo de pregunta tiene los siguientes atributos:
 
 
       - answer: Array con las posibles respuestas. Por ejemplo:
+      
         "legend": [
           "iPhone",
           "Sony",
@@ -261,6 +264,7 @@ Este tipo de pregunta tiene los siguientes atributos:
 
 
       - subquestions[]: Array con las distintas subpreguntas, que a su vez se componen de un título y un subtítulo. Por ejemplo:
+      
         "subquestions": [
           {
             "title": "¿Cuánto tiempo emplea usted viendo la televisión?",
